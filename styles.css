@@ -1,0 +1,27 @@
+.texto {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  padding: 0px 30px;
+  color: #1bd9fd;
+  font-size: 20px;
+}
+
+.cuadrado {
+  display: flex;
+  color: #1bd9fd;
+  font-size: 20px;
+}
+
+.footer {
+  height: 120px;
+  background-color: #00181d;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.datos {
+  color: #1bd9fd;
+  padding: 0px 30px;
+}
